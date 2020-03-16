@@ -3,4 +3,3 @@
 ## Topic 1
 - Git
 - Web
-- Clean
